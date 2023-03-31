@@ -24,7 +24,7 @@ If you would like to contribute to this project, feel free to open a pull reques
 
 ## Authors
 
-This code was written by [ALIILAPRO].
+This code was written by [ALIILAPRO](https://github.com/ALIILAPRO).
 
 ## License
 
